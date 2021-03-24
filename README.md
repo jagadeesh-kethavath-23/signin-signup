@@ -18,21 +18,22 @@ This command line is to install jason file packages
 ```
 npm init -y
 ```
-### step-3
+
 This is to install express framework
 ```
 npm install express
 ```
-### step-4
+
 This is to install mongoose
-```npm install mongoose
 ```
-### step-5
+npm install mongoose
+```
+
 This is to install nodemom
 ```
 npm install nodemon
 ```
-### step-6
+### step-3
 Make edits in the *Scripts* key-value part installed *package.json* file
 ```
   "scripts": {
