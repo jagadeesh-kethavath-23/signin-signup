@@ -34,7 +34,7 @@ This is to install nodemom
 npm install nodemon
 ```
 ### step-3
-Make edits in the *Scripts* key-value part installed *package.json* file
+Make edits in the *Scripts* key-value part installed *package.json* file,so that it looks like the one below:
 ```
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
