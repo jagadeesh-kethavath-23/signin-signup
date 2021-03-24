@@ -1,0 +1,47 @@
+*{
+    margin:0px;
+    text-decoration: none;
+}
+body{
+    background-image: url("img1.jpg");
+    background-size: cover;
+    background-attachment: inherit;
+}
+h1{
+    color: red;
+}
+#top_border{
+    text-align: center;
+    font-size: 10vw;
+    background-color:transparent;
+    color:white;
+    width: 100%;
+}
+li{
+    text-align: center;
+    float: right;
+    list-style:none;
+    font-size: 1.4vw;
+    background-color:  #c1cfcc;
+    color:black;
+    width: 13vw;
+    height: 2.3vw;
+    display: block;
+}
+li:hover{
+    background-color:white;
+    color: #ff2400;
+}
+#input1{
+    margin-top: 18vw;
+    margin-left: 4vw;
+    border-radius: 5px;
+    font-size: 2vw;
+    border: transparent;
+}
+button{
+    margin-top: 18vw;
+    border-radius: 5px;
+    font-size: 2vw;
+    border: transparent;
+}
